@@ -18,5 +18,8 @@ Este projeto apresenta uma análise exploratória sobre dados simulados de alugu
 ## 📌 Objetivo
 O projeto tem como foco demonstrar habilidades em análise e visualização de dados com Python, utilizando bibliotecas como `pandas` e `matplotlib`.
 
+## 📌 site feito para expicar mais sobre o projeto
+/[🔗 https://analise-de-dados-de-imov-4t3wvqa.gamma.site]
+
 ## ✅ Autor
 João Felipe Rutowitsch Azevedo — Estudante de Ciência da Computação
